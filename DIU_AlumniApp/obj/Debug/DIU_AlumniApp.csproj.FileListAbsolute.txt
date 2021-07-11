@@ -1,0 +1,235 @@
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\ApplicationInsights.config
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\csc.exe
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\vbc.exe
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\VBCSCompiler.exe
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.dll.config
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.pdb
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Antlr3.Runtime.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.SqlServer.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.Web.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Newtonsoft.Json.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Owin.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Helpers.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Mvc.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Optimization.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Razor.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Razor.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\WebGrease.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.Web.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Helpers.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Mvc.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Optimization.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Razor.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Razor.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Antlr3.Runtime.pdb
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Newtonsoft.Json.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.SqlServer.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.csprojResolveAssemblyReference.cache
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.dll
+c:\users\sabbir rahman\documents\visual studio 2015\Projects\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.pdb
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\ApplicationInsights.config
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\csc.exe
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\System.Collections.Immutable.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\vbc.exe
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\VBCSCompiler.exe
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\VBCSCompiler.exe.config
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.dll.config
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.pdb
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Antlr3.Runtime.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.SqlServer.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.Web.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.WindowsServer.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.ApplicationInsights.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Google.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Web.Infrastructure.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Newtonsoft.Json.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Owin.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Helpers.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Mvc.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Optimization.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Razor.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Deployment.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Razor.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\WebGrease.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.Web.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AI.WindowsServer.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.ApplicationInsights.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Helpers.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Mvc.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Optimization.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Razor.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Deployment.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Razor.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Antlr3.Runtime.pdb
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Newtonsoft.Json.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.SqlServer.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Google.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.csprojResolveAssemblyReference.cache
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.dll
+E:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.pdb
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\csc.exe
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\System.Collections.Immutable.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\vbc.exe
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\VBCSCompiler.exe
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\roslyn\VBCSCompiler.exe.config
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.dll.config
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\DIU_AlumniApp.pdb
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Antlr3.Runtime.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.SqlServer.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Google.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Web.Infrastructure.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Newtonsoft.Json.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Owin.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Helpers.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Mvc.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Optimization.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Razor.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Deployment.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Razor.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\WebGrease.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Helpers.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Mvc.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Optimization.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.Razor.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Deployment.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\System.Web.WebPages.Razor.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Antlr3.Runtime.pdb
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Newtonsoft.Json.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\EntityFramework.SqlServer.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Google.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.csprojResolveAssemblyReference.cache
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.csproj.CoreCompileInputs.cache
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.dll
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.pdb
+F:\SWE\9th semester\OOSD\DIU_AlumniApp\DIU_AlumniApp\obj\Debug\DIU_AlumniApp.csproj.CopyComplete
